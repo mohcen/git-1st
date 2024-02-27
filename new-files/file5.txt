@@ -1,3 +1,3 @@
 It's a new file
 
-more changes here. This line was modified again.
+more changes here. this line is changed for BR-3 branch.
