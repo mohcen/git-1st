@@ -3,3 +3,5 @@ This line was replaced in feat-2.
 This file was modified locally.
 
 This line was added in feat-2.
+
+another modification in feat-2.
